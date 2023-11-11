@@ -1,0 +1,67 @@
+commit 414a65274b88a2273c552e62288c6640c79b71ef (HEAD -> master)
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Sun Aug 27 21:55:22 2023 +0200
+
+    Adding comments
+
+commit 2e9d1cd36cf86125c1490f265b1488d8c2eb689c
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Fri Aug 25 09:12:59 2023 +0200
+
+    "fixing andre"
+
+commit 6525abe3bc4886a095c3e71f907743551f2c3546
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Fri Aug 25 04:00:28 2023 +0200
+
+    "fixing andre"
+
+commit f32fda5b6b83fa34ccff5903f0e88724da61971c
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Fri Aug 25 00:18:24 2023 +0200
+
+    "Synchronizing GridBlock entry"
+
+commit 9b1ab987999819269c109b8ffd84f6cd8730ca5e
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Thu Aug 24 22:47:42 2023 +0200
+
+    "Synchronizing GridBlock"
+
+commit 8d7decf64f2f1d33d8b4e06605ab93ea3a1dd451
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Thu Aug 24 11:24:58 2023 +0200
+
+    "Synchronizing GridBlock"
+
+commit c3d71030037d0ff31e796085ffd9f9055aae7ed6
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Thu Aug 24 03:00:47 2023 +0200
+
+    "Synchronizing GridBlock"
+
+commit 3cf229ffd5d2fe4326cc810dcad3c0ebb233bb15
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Thu Aug 24 00:01:38 2023 +0200
+
+    "Start button"
+
+commit 0667f1e00e4d02721e8368ec218989af24266063
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Wed Aug 23 22:18:06 2023 +0200
+
+    "Andre class"
+
+commit 1c4530f48c4e32a8d47aaa7dff8cb47743943c65
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Tue Aug 22 21:56:22 2023 +0200
+
+    "New implementation"
+
+commit a2285785df1fb0c3e82cefb8f0ac89707cb2c8dd
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Wed Aug 16 19:15:27 2023 +0200
+
+    "Adding start exit and pause buttons"
+(END)
+
